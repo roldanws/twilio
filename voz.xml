@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="alice" language="es-MX">Hola, esta es una llamada automática. Que tengas un buen día.</Say>
+</Response>
